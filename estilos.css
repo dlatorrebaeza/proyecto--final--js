@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: auto;
+  background-color: lightgrey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0a58ca;
+}
+
+main {
+  margin-top: 110px;
+}
+
+header {
+  
+  width: 100%;
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  border: solid orange 1px;
+  position: fixed;
+  z-index: 100000;
+}
+
+.header__img {
+  padding: 1px;
+  display: flex;
+  width: 100px;
+  height: 100px;
+}
+
+.h1 {
+  font-size: 120px;
+}
+
+.offcanvas {
+  background: lightgreen;
+  margin-top: 120px;
+}
+
+.title {
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  margin: 0.75rem;
+}
+
+.card-title {
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 1px;
+  line-height: 1.5;
+}
+
+.imgProductos {
+  width: 200px;
+  height: 250px;
+  object-fit: contain;
+  margin-top: 1rem;
+}
+
+h5 {
+    line-height: 1.5;
+}
+
+footer {
+  bottom: 0;
+  border: none;
+  position: static;
+}

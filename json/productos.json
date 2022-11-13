@@ -1,0 +1,14 @@
+[
+    {"nombre":"Pan", "precio":2300, "id":1, "img":"img/pan.jpg", "cantidad":1},
+    {"nombre":"Jamón", "precio":2750, "id":2, "img":"img/jamon.jpg", "cantidad":1},
+    {"nombre":"Queso", "precio":2500, "id":3, "img":"img/queso.jpg", "cantidad":1},
+    {"nombre":"Mantequilla", "precio":3500, "id":4, "img":"img/mantequilla.jpg", "cantidad":1},
+    {"nombre":"Manjar", "precio":2500, "id":5, "img":"img/manjar.jpg", "cantidad":1},
+    {"nombre":"Mermelada", "precio":2700, "id":6, "img":"img/mermelada.jpg", "cantidad":1},
+    {"nombre":"Paté", "precio":1700, "id":7, "img":"img/pate.jpg", "cantidad":1},
+    {"nombre":"Té", "precio":2600, "id":8, "img":"img/te.jpg", "cantidad":1},
+    {"nombre":"Café", "precio":2900, "id":9, "img":"img/cafe.jpg", "cantidad":1},
+    {"nombre":"Azúcar", "precio":4200, "id":10, "img":"img/azucar.jpg", "cantidad":1},
+    {"nombre":"Leche", "precio":1800, "id":11, "img":"img/leche.jpg", "cantidad":1},
+    {"nombre":"Huevos", "precio":3200, "id":12, "img":"img/huevos.jpg", "cantidad":1}
+]
